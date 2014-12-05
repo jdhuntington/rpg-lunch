@@ -13,6 +13,7 @@
 - Investigate reports of somene digging around the Old Owl Well, as well as reports of undead attacks there, for Daran
 - Recover stolen trade goods from Cragmaw Hideout for Linene at Lionshield Coster
 - End the orc raids near Wyvern Tor for 100gp, for Harbin and Sildar
+- There is a price on the party's heads, learned from a street thief in Neverwinter, placed by the Spider
 
 ## Completed
 - Recover Mirna's husband's body
