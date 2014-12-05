@@ -1,12 +1,12 @@
 # Quests
 
 ## Ready To Complete
+- Find Mirna's family's treasure hidden in Thundertree
 
 ## Current
 - Find Cragmaw Castle and rescue Gundren
 - Find Tharden and Nundro, Gundren's missing brothers
 - Drive off the dragon at Thundertree (Jorah's personal goal)
-- Find Mirna's family's treasure hidden in Thundertree
 
 ## Available
 - Help Sister Garaele with the banshee Agatha
