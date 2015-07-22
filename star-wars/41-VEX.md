@@ -43,6 +43,13 @@ _* denotes career skill_
 - **Inorganic**: Bacta tanks, stimpacks, and Medicine skill checks do not provide any healing benefit to Droids. Resting does, as do Mechanics skill checks, emergency repair patches, and oil baths. (pp. 47, 220)
 - **Mechanial Being**: Droids cannot become Force sensitive, acquire a Force Rating, or use Force powers. Droids are not affected by mind-altering Force powers. (p. 47)
 
+## Weapons
+| Weapon               | Skill          | Dmg | Range   | Crit | Special                                                       |
+| -------------------- | -------------- | --: | ------- | :--: | ------------------------------------------------------------- |
+| Light Blaster Pistol | Ranged (Light) |   5 | Medium  | 4    | Stun setting                                                  |
+| Stun Grenades        | Ranged (Light) |   8 | Short   | NA   | Quantity 2, Disorient 3, Stun Damage, Blast 8, Limited Ammo 1 |
+| Fists                | Brawl          |  +0 | Engaged | 5    | Disorient 1, Knockdown                                        |
+
 ## Gear
 975 credits, armored chassis (equiv. to heavy clothing), integrated communicator (equiv. to handheld comlink), 2 emergency repair patches, integrated medical kit (equiv. to medpac)
 
