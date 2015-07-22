@@ -46,10 +46,10 @@ _* denotes career skill_
 | Fists          | Brawl          |  +0 | Engaged | 5    | Disorient 1, Knockdown |
 
 ## Gear
-205 credits, 2 stimpacks, comlink (handheld), medpac
+155 credits, 2 stimpacks, comlink (handheld), medpac
 
 ## Obligations
-- **Oath 10**: Lo has vowed to hunt down the Trandoshans who killed his sister and nephew for sport.
+- **Oath 15**: Lo has vowed to hunt down the Trandoshans who killed his sister and nephew for sport.
 
 ## Motivations
 - **Cause (Vengeance)**: Nothing is more important to Lo than escaping Teemo's attention and getting vengeance for his family.
