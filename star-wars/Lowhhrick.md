@@ -3,9 +3,9 @@
 - **Species**: Wookie
 - **Career**: Hired Gun
 - **Specializations**: Bodyguard
-- **XP** ( current / total ): 0 / 100
+- **XP** ( current / total ): 10 / 110
 - **Soak Value**: 4
-- **Wounds** ( current / threshold ): 0 / 18
+- **Wounds** ( current / threshold ): 13 / 18
 - **Strain** ( current / threshold ): 0 / 10
 - **Defense** ( ranged / melee ): 0 / 0
 - **Critical Injuries**: none
@@ -46,7 +46,7 @@ _* denotes career skill_
 | Fists          | Brawl          |  +0 | Engaged | 5    | Disorient 1, Knockdown |
 
 ## Gear
-425 credits, 2 stimpacks, comlink (handheld)
+205 credits, 2 stimpacks, comlink (handheld), medpac
 
 ## Obligations
 - **Oath 10**: Lo has vowed to hunt down the Trandoshans who killed his sister and nephew for sport.
@@ -69,3 +69,7 @@ Lowhhrick eventually achieved such fame that his contract was acquired by a Hutt
 Recently, Lowhhrick struck up a friendship with a bounty hunter named Oskara who also worked for Teemo the Hutt. Oskara was planning to make a run for it and quit Teemo's service, and Lowhhrick offered his help…if Oskara would take him with her. Lowhhrick also grabbed 41-VEX, the droid medic who patched him up after each fight, and brought the droid along.
 
 Lowhhrick has a great deal of experience with combat, both from his career as a gladiator and his time acting as a warrior on Kashyyyk. He is disciplined and thoughtful by nature, but his experiences of the past few decades have made him somewhat short-tempered. He takes his obligations and his oaths very seriously, and nothing is more important to him than escaping his predicament and getting vengeance for his family. Although Lowhhrick cannot speak Basic, he understands it quite well and the other PCs understand his language just as well.
+
+_The first play session:_
+
+_(Add 1 XP after continuing Lo's story to include the first play session, from Lo's perspective.)_
