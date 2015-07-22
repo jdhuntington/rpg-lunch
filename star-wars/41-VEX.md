@@ -3,10 +3,10 @@
 - **Species**: Droid
 - **Career**: Colonist
 - **Specializations**: Doctor
-- **XP** ( current / total ): 0 / 175
+- **XP** ( current / total ): 0 / 185
 - **Soak Value**: 3
 - **Wounds** ( current / threshold ): 0 / 12
-- **Strain** ( current / threshold ): 0 / 11
+- **Strain** ( current / threshold ): 0 / 12
 - **Defense** ( ranged / melee ): 0 / 0
 - **Critical Injuries**: none
 
@@ -35,6 +35,8 @@ _Streetwise (Cun)*_ 1,
 _* denotes career skill_
 
 ## Talents (Doctor)
+- **Grit** (Cost 5): Increase your Strain Threshold by 1 (already increased).
+- **Surgeon** (Cost 5): Your Medicine checks recover 1 additional wound.
 
 ## Special Abilities
 - Droids do not eat, sleep, or breathe, and are unaffected by toxins or poisons. Droids have a cybernetic implant cap of 6. (p. 47)
