@@ -3,7 +3,7 @@
 - **Species**: Wookie
 - **Career**: Hired Gun
 - **Specializations**: Bodyguard
-- **XP** ( current / total ): 0 / 90
+- **XP** ( current / total ): 0 / 100
 - **Soak Value**: 4
 - **Wounds** ( current / threshold ): 0 / 18
 - **Strain** ( current / threshold ): 0 / 10
@@ -23,7 +23,7 @@ _Athletics (Br)*_ 1,
 _Brawl (Br)*_ 1,
 _Discipline (Will)*_ 1,
 _Gunnery (Ag)*_ 1,
-_Melee (Br)*_ 1,
+_Melee (Br)*_ 2,
 _Perception(Cun)*_ 0,
 _Piloting (Planetary, Ag)*_ 0,
 _Ranged (Light, Ag)*_ 1,
