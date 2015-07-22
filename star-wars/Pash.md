@@ -4,7 +4,7 @@
 - **Career**: Smuggler
 - **Specializations**: Pilot
 - **XP** ( current / total ): 0 / 130
-- **Soak Value**: 3
+- **Soak Value**: 4
 - **Wounds** ( current / threshold ): 0 / 13
 - **Strain** ( current / threshold ): 0 / 12
 - **Defense** ( ranged / melee ): 0 / 0
