@@ -56,7 +56,7 @@
 | 2 stimpacks        | Recover 5 wounds on 1st use. Recover 1 less wound each subsequent use, until full rest or 24 hours |
 | Comlink (handheld) |                                                                                                    |
 | Heavy clothes      | Soak 1 (already included)                                                                          |
-| Macrobinoculars    |                                                                                                    |
+| Macrobinoculars    |                                                                                                    ||
 
 #### Obligations
 - **Criminal 20**: Sasha has outstanding Imperial arrest warrants on several systems, from her time in the Rebellion.
