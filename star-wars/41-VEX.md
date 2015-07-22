@@ -51,7 +51,7 @@ _* denotes career skill_
 | Fists                | Brawl          |  +0 | Engaged | 5    | Disorient 1, Knockdown                                        |
 
 ## Gear
-975 credits, armored chassis (equiv. to heavy clothing), integrated communicator (equiv. to handheld comlink), 2 emergency repair patches, integrated medical kit (equiv. to medpac)
+550 credits, armored chassis (equiv. to heavy clothing), integrated communicator (equiv. to handheld comlink), 2 emergency repair patches, integrated medical kit (equiv. to medpac)
 
 ## Obligations
 - **Debt 15**: Vex owes a considerable amount of credits to Teemo the Hutt, after taking a large loan from one of Teemo's moneylenders to purchase its freedom. While Vex has now escaped Teemo's service on Mos Shuuta, Teemo will still expect regular payments, and likely will "add your betrayal to the balance".
