@@ -45,7 +45,7 @@ _* denotes career skill_
 | Fists          | Brawl          |  +0 | Engaged | 5    | Disorient 1, Knockdown |
 
 ## Gear
-100 credits, stimpack, comlink (handheld), heavy clothes
+0 credits, stimpack, comlink (handheld), heavy clothes
 
 ## Obligations
 - **Favor 20**: Pash owes an Imperial officer named Herkin a huge favor for setting him free after Pash was arrested for piracy.
@@ -66,3 +66,7 @@ It's been a hard run for the smuggler, con-man, and rogue known only as Pash. Fi
 Recently, Pash has been flying cargos for Teemo in and out of the tiny town of Mos Shuuta on Tatooine. In some ways it's been the most boring and peaceful eight weeks of his life. In other ways, he keeps getting shot at by pirates and customs officials and having to do risky landings in remote, dangerous places, so it's terrifying at the same time. On his most recent mission, Pash's ship, a rusty old Ghtroc 720 light freighter named _Ao Var_, was damaged beyond repair and had to be sold off for parts when he finally returned to Mos Shuuta. Teemo the Hutt was not happy, since the _Ao Var_ was technically the Hutt's property. Pash decided it was probably time to leave the Hutt's service, and teamed up with his favorite droid mechanic 41-VEX and a lethal Twi'lek bounty hunter named Oskara to make it happen.
 
 Despite his long life of misfortune, Pash thinks of himself as lucky–and perhaps he is. After all, if he hadn't been arrested and transported off of Alderaan, he might have been there when the Empire blew it up. Pash has a knack for coming through disaster unscathed. He's a really excellent pilot and pretty good at a lot of other things, and has the easy-going nature of one to whom thigs come easily.
+
+_The first play session:_
+
+_(Add 1 XP after continuing Pash's story to include the first play session, from Pash's perspective.)_
