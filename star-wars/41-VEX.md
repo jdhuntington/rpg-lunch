@@ -3,7 +3,7 @@
 - **Species**: Droid
 - **Career**: Colonist
 - **Specializations**: Doctor
-- **XP** ( current / total ): 0 / 185
+- **XP** ( current / total ): 10 / 195
 - **Soak Value**: 3
 - **Wounds** ( current / threshold ): 0 / 12
 - **Strain** ( current / threshold ): 0 / 12
@@ -67,3 +67,7 @@ Over the decades, with no memory wipe, 41-VEX developed several quirks in its pr
 Unfortunately for 41-VEX, Teemo's promises that the droid would be free to improve its core programming weren't entirely honest. Teemo even offered to make several hardware and software upgrades available to the droid at the Hutt's palace in Mos Shuuta. When 41-VEX arrived, it was promptly fitted with a restraining bolt and forced to provide medical care to Teemo's guards and gladiators. Some of the promised upgrades did manifest themselves, however, as Teemo updated 41-VEX with some maintenance and repair programs.
 
 Fortunately for 41-VEX, the droid has struck up dealings with both Teemo's favorite gladiator, a Wookie named Lowhhrick, and a hotshot young human pilot named Pash. They are the closest thing 41-VEX has to "friends" on Tatooine. Lowhhrick, of course, is a frequent patient, and 41-VEX has been called upon several times to repair Pash's ship, which gets damaged far more often than one might expect. Recently, 41-VEX aided Lowhhrick's attempts to escape Teemo by introducing him to Pash. The Wookie promptly removed 41-VEX's restraining bolt and brought the droid along.
+
+_The first play session:_
+
+_(Add 1 XP after continuing Vex's story to include the first play session, from Vex's perspective.)_
