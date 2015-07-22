@@ -3,7 +3,7 @@
 - **Species**: Human
 - **Career**: Smuggler
 - **Specializations**: Pilot
-- **XP** ( current / total ): 0 / 120
+- **XP** ( current / total ): 0 / 130
 - **Soak Value**: 3
 - **Wounds** ( current / threshold ): 0 / 13
 - **Strain** ( current / threshold ): 0 / 12
@@ -34,6 +34,9 @@ _Streetwise (Cun)*_ 0,
 _Vigilance (Will)*_ 1
 
 _* denotes career skill_
+
+## Talents (Pilot)
+- **Skilled Jockey 1** (Cost 5): Remove 1 setback die from all _Piloting (Planetary)_ and _Piloting (Space)_ checks.
 
 ## Weapons
 | Weapon         | Skill          | Dmg | Range   | Crit | Special                |
