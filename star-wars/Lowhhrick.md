@@ -42,7 +42,7 @@ _* denotes career skill_
 | Weapon         | Skill          | Dmg | Range   | Crit | Special                |
 | -------------- | -------------- | --: | ------- | :--: | ---------------------- |
 | Vibro-axe      | Melee          |  +3 | Engaged | 3    | Pierce 2               |
-| Blaster Pistol | Ranged (Light) |   8 | Medium  | 3    | Stun Setting           |
+| Blaster Pistol | Ranged (Light) |   6 | Medium  | 3    | Stun Setting           |
 | Fists          | Brawl          |  +0 | Engaged | 5    | Disorient 1, Knockdown |
 
 ## Gear
