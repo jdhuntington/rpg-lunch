@@ -35,7 +35,7 @@ _Streetwise (Cun)*_ 1,
 _* denotes career skill_
 
 ## Talents (Doctor)
-- **Grit** (Cost 5): Increase your Strain Threshold by 1 (already increased).
+- **Grit** (Cost 5): Increase your Strain Threshold by 1 (already included).
 - **Surgeon** (Cost 5): Your Medicine checks recover 1 additional wound.
 
 ## Special Abilities
