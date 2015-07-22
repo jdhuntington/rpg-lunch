@@ -104,3 +104,7 @@ of Sasha’s idealism remained that guiding an indentured servant through the
 wilderness to a safehouse struck her as normal, even noble. When Teemo the
 Hutt found out that it was Sasha who helped the servant escape, he was not
 pleased–but apparently that had given Oskara an idea…
+
+_Catching up through the first session:_
+
+_(Add 5 XP after continuing Sasha's story to explain how she became a captive of the Trandoshan slaver Trex, ending with her bound and stowed in a hidden holding cell on the Krayt Fang. Was it her Imperial arrest warrants? Did she free the wrong slave, and this is payback? Does she even know why?)_
