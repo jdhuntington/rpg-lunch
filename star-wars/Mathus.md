@@ -106,3 +106,7 @@ Fed up and backed into a corner, Mathus has decided to make a break for it.
 First, he introduced some new code into one of Teemo’s droids, 41-VEX, to
 encourage the droid to try to escape, too. Then, he struck up a friendship with
 a scout named Sasha, intending to pool their resources and get off Tatooine…
+
+_Catching up through the first session:_
+
+_(Add 5 XP after continuing Mathus's story to explain how he saw Sasha captured by Trex, then boarded the Krayt Fang to rescue her, but then had to quickly hide after the ship was boarded by thieves, taken off of Mos Shuuta, pursued by TIE fighters, and finally made the jump to hyperspace.)_
