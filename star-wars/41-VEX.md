@@ -1,69 +1,78 @@
 # 41-VEX (Vex)
-- **Player**: Damien Guard
-- **Species**: Droid
-- **Career**: Colonist
-- **Specializations**: Doctor
-- **XP** ( current / total ): 10 / 195
-- **Soak Value**: 3
-- **Wounds** ( current / threshold ): 0 / 12
-- **Strain** ( current / threshold ): 0 / 12
-- **Defense** ( ranged / melee ): 0 / 0
-- **Critical Injuries**: none
 
-## Characteristics
-_Brawn_ 2,
-_Agility_ 2,
-_Intellect_ 4,
-_Cunning_ 1,
-_Willpower_ 1,
-_Presence_ 2
+#### Droid Colonist (Doctor) played by Damien
+| Soak Value | Wounds  | Strain  | Defense | XP        |
+| :--------: | :-----: | :-----: | :-----: | :-------: |
+| 3          | 0 of 12 | 0 of 12 | 0       | 10 of 195 |
 
-## Skills
-_Charm (Pr)*_ 1,
-_Cool (Pr)*_ 1,
-_Deception (Cun)*_ 1,
-_Knowledge (Core Worlds, Int)*_ 1,
-_Knowledge (Education, Int)*_ 1,
-_Knowledge (Lore, Int)*_ 0,
-_Leadership (Pr)*_ 1,
-_Mechanics (Int)_ 1,
-_Medicine (Int)*_ 2,
-_Negotiation (Pr)*_ 1,
-_Resilience (Br)*_ 1,
-_Streetwise (Cun)*_ 1,
+#### Characteristics
+| Brawn | Agility | Intellect | Cunning | Willpower | Presence |
+| :---: | :-----: | :-------: | :-----: | :-------: | :------: |
+| 2     | 2       | 4         | 1       | 1         | 2        |
 
-_* denotes career skill_
+#### Skills
+| Skill                       | Career?        | Rank |
+| --------------------------- | :------------: | ---: |
+| Charm (Pr)                  | ✓              |  1   |
+| Cool (Pr)                   | ✓              |  1   |
+| Deception (Cun)             | ✓              |  1   |
+| Knowledge–Core Worlds (Int) | ✓              |  1   |
+| Knowledge–Education (Int)   | ✓              |  1   |
+| Knowledge–Lore (Int)        | ✓              |  0   |
+| Leadership (Int)            | ✓              |  1   |
+| Mechanics (Int)             |                |  1   |
+| Medicine (Int)              | ✓              |  2   |
+| Negotiation (Cun)           | ✓              |  1   |
+| Resilience (Br)             | ✓              |  1   |
+| Streetwise (Cun)            | ✓              |  1   |
 
-## Talents (Doctor)
-- **Grit** (Cost 5): Increase your Strain Threshold by 1 (already included).
-- **Surgeon** (Cost 5): Your Medicine checks recover 1 additional wound.
+#### Talents–Doctor
+|         |                           |                  |                  |                 |
+| :-----: | ------------------------- | ---------------- | ---------------- | --------------- |
+| Cost 5  | ✓ Surgeon                 | Bacta Specialist | ✓ Grit           | Resolve         |
+| Cost 10 | Stim Application          | Grit             | Surgeon          | Resolve         |
+| Cost 15 | Surgeon                   | Grit             | Bacta Specialist | Pressure Point  |
+| Cost 20 | Improved Stim Application | Natural Doctor   | Toughened        | Anatomy Lessons |
+| Cost 25 | Supreme Stim Application  | Master Doctor    | Dedication       | Dodge           |
 
-## Special Abilities
+- **Grit**: Increase your Strain Threshold by 1 (already included).
+- **Surgeon**: Your Medicine checks recover 1 additional wound.
+
+#### Critical Injuries
+- None
+
+#### Special Abilities
 - Droids do not eat, sleep, or breathe, and are unaffected by toxins or poisons. Droids have a cybernetic implant cap of 6. (p. 47)
 - **Inorganic**: Bacta tanks, stimpacks, and Medicine skill checks do not provide any healing benefit to Droids. Resting does, as do Mechanics skill checks, emergency repair patches, and oil baths. (pp. 47, 220)
 - **Mechanial Being**: Droids cannot become Force sensitive, acquire a Force Rating, or use Force powers. Droids are not affected by mind-altering Force powers. (p. 47)
 
-## Weapons
+#### Weapons
 | Weapon               | Skill          | Dmg | Range   | Crit | Special                                                       |
 | -------------------- | -------------- | --: | ------- | :--: | ------------------------------------------------------------- |
 | Light Blaster Pistol | Ranged (Light) |   5 | Medium  | 4    | Stun setting                                                  |
 | Stun Grenades        | Ranged (Light) |   8 | Short   | NA   | Quantity 2, Disorient 3, Stun Damage, Blast 8, Limited Ammo 1 |
 | Fists                | Brawl          |  +0 | Engaged | 5    | Disorient 1, Knockdown                                        |
 
-## Gear
-550 credits, armored chassis (equiv. to heavy clothing), integrated communicator (equiv. to handheld comlink), 2 emergency repair patches, integrated medical kit (equiv. to medpac)
+#### Gear
+|                            |                                                     |
+| -------------------------- | --------------------------------------------------- |
+| 550 credits                |                                                     |
+| Armored chassis            | Soak 1 (already included); equiv. to heavy clothing |
+| Integrated comlink         | Equiv. to handheld comlink                          |
+| 2 emergency repair patches | Recover 3 wounds                                    |
+| Integrated medpac          | Equiv. to medpac                                    ||
 
-## Obligations
+#### Obligations
 - **Debt 15**: Vex owes a considerable amount of credits to Teemo the Hutt, after taking a large loan from one of Teemo's moneylenders to purchase its freedom. While Vex has now escaped Teemo's service on Mos Shuuta, Teemo will still expect regular payments, and likely will "add your betrayal to the balance".
 
-## Motivations
+#### Motivations
 - **Ambition (Expertise)**: Vex is dedicated to increasing its skill and mastery of medicine.
 
-## Playing 41-VEX
+#### Personality
 
 _(Add 1 XP after adding a description of Vex's personality here, along with notes for how to play Vex, to help someone else play the character if needed.)_
 
-## Story
+#### Story
 
 _The starting, background story:_
 
