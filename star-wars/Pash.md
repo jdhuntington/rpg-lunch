@@ -1,63 +1,68 @@
 # Pash
-- **Player**: Chris
-- **Species**: Human
-- **Career**: Smuggler
-- **Specializations**: Pilot
-- **XP** ( current / total ): 10 / 140
-- **Soak Value**: 4
-- **Wounds** ( current / threshold ): 0 / 13
-- **Strain** ( current / threshold ): 0 / 12
-- **Defense** ( ranged / melee ): 0 / 0
-- **Critical Injuries**: none
 
-## Characteristics
-_Brawn_ 3,
-_Agility_ 3,
-_Intellect_ 2,
-_Cunning_ 3,
-_Willpower_ 2,
-_Presence_ 3
+#### Human Smuggler (Pilot) played by Chris
+| Soak Value | Wounds  | Strain  | Defense | XP        |
+| :--------: | :-----: | :-----: | :-----: | :-------: |
+| 4          | 0 of 13 | 0 of 12 | 0       | 10 of 140 |
 
-## Skills
-_Astrogation (Int)*_ 0,
-_Charm (Pr)_ 1,
-_Coordination (Will)*_ 0,
-_Deception (Cun)*_ 1,
-_Gunnery (Ag)*_ 0,
-_Knowledge (Underworld, Int)*_ 0,
-_Perception (Cun)*_ 1,
-_Piloting (Planetary, Ag)*_ 1,
-_Piloting (Space, Ag)*_ 2,
-_Ranged (Light, Ag)_ 1,
-_Skullduggery (Cun)*_ 0,
-_Streetwise (Cun)*_ 0,
-_Vigilance (Will)*_ 1
+#### Characteristics
+| Brawn | Agility | Intellect | Cunning | Willpower | Presence |
+| :---: | :-----: | :-------: | :-----: | :-------: | :------: |
+| 3     | 3       | 2         | 3       | 2         | 3        |
 
-_* denotes career skill_
+#### Skills
+| Skill                      | Career?        | Rank |
+| -------------------------- | :------------: | ---: |
+| Astrogation (Int)          | ✓              |  0   |
+| Charm (Pr)                 |                |  1   |
+| Coordination (Will)        | ✓              |  0   |
+| Deception (Cun)            | ✓              |  1   |
+| Gunnery (Ag)               | ✓              |  0   |
+| Knowledge–Underworld (Int) | ✓              |  1   |
+| Perception (Cun)           | ✓              |  1   |
+| Piloting–Planetary (Ag)    | ✓              |  1   |
+| Piloting–Space (Ag)        | ✓              |  2   |
+| Ranged–Light (Ag)          |                |  1   |
+| Skullduggery (Cun)         | ✓              |  0   |
+| Streetwise (Cun)           | ✓              |  0   |
+| Vigilance (Will)           | ✓              |  1   |
 
-## Talents (Pilot)
-- **Skilled Jockey 1** (Cost 5): Remove 1 setback die from all _Piloting (Planetary)_ and _Piloting (Space)_ checks.
+#### Talents (Pilot)
+|         |                        |                         |                 |                   |
+| :-----: | ---------------------- | ----------------------- | --------------- | ----------------- |
+| Cost 5  | Full Throttle          | ✓ Skilled Jockey        | Galaxy Mapper   | Let's Ride        |
+| Cost 10 | Skilled Jockey         | Dead to Rights          | Galaxy Mapper   | Rapid Recovery    |
+| Cost 15 | Improved Full Throttle | Improved Dead to Rights | Grit            | Natural Pilot     |
+| Cost 20 | Grit                   | Supreme Full Throttle   | Tricky Target   | Defensive Driving |
+| Cost 25 | Master Pilot           | Dedication              | Toughened       | Brilliant Evasion |
 
-## Weapons
+- **Skilled Jockey**: Remove 1 setback die per rank from all _Piloting (Planetary)_ and _Piloting (Space)_ checks.
+
+#### Weapons
 | Weapon         | Skill          | Dmg | Range   | Crit | Special                |
 | -------------- | -------------- | --: | ------- | :--: | ---------------------- |
 | Blaster Pistol | Ranged (Light) |   6 | Medium  | 3    | Stun Setting           |
 | Fists          | Brawl          |  +0 | Engaged | 5    | Disorient 1, Knockdown |
 
-## Gear
-0 credits, stimpack, comlink (handheld), heavy clothes
+#### Gear
+|                    |                                                                                                    |
+| ------------------ | -------------------------------------------------------------------------------------------------- |
+| 0 credits          |                                                                                                    |
+| Stimpack           | Recover 5 wounds on 1st use. Recover 1 less wound each subsequent use, until full rest or 24 hours |
+| Comlink (handheld) |                                                                                                    |
+| Heavy clothes      | Soak 1 (already included)                                                                          ||
 
-## Obligations
+#### Obligations
 - **Favor 20**: Pash owes an Imperial officer named Herkin a huge favor for setting him free after Pash was arrested for piracy.
 
-## Motivations
+#### Motivations
 - **Ambition (Freedom)**: Having survived so much already, and having faced death and tragedy repeatedly, the freedom to live life as he chooses is supremely important to Pash.
 
-## Playing Pash
+#### Personality
 
 _(Add 1 XP after adding a description of Pash's personality here, along with some notes for how to play Pash, to help someone else play the character if needed.)_
 
-## Story
+#### Story
 
 _The starting, background story:_
 
