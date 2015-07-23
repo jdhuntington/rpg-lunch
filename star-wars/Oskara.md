@@ -1,9 +1,9 @@
 # Oskara
 
 #### Twi'lek Bounty Hunter (Assassin) played by JD
-| Soak Value | Wounds  | Strain  | Defense | XP       |
-| :--------: | :-----: | :-----: | :-----: | :------: |
-| 4          | 0 of 12 | 0 of 13 | 0       | 0 of 110 |
+| Soak Value | Wounds   | Strain  | Defense | XP        |
+| :--------: | :------: | :-----: | :-----: | :-------: |
+| 4          | 10 of 12 | 0 of 13 | 0       | 10 of 120 |
 
 #### Characteristics
 | Brawn | Agility | Intellect | Cunning | Willpower | Presence |
@@ -40,7 +40,7 @@
 - **Stalker**: Add 1 boost die per rank to Stealth and Coordination checks.
 
 #### Critical Injuries
-- None
+- Stunned (easy)
 
 #### Special Abilities
 - Remove any setback dice added due to arid or hot environment conditions.
@@ -54,7 +54,7 @@
 ## Gear
 |                    |                                                                                                    |
 | ------------------ | -------------------------------------------------------------------------------------------------- |
-| 100 credits        |                                                                                                    |
+| 0 credits          |                                                                                                    |
 | Stimpack           | Recover 5 wounds on 1st use. Recover 1 less wound each subsequent use, until full rest or 24 hours |
 | Comlink (handheld) |                                                                                                    |
 | Binders            |                                                                                                    |
