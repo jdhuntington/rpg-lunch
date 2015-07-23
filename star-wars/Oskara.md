@@ -51,7 +51,7 @@
 | Blaster Carbine | Ranged–Heavy   |   9 | Medium  | 3    | Stun Setting           |
 | Fists           | Brawl          |  +0 | Engaged | 5    | Disorient 1, Knockdown |
 
-## Gear
+#### Gear
 |                    |                                                                                                    |
 | ------------------ | -------------------------------------------------------------------------------------------------- |
 | 0 credits          |                                                                                                    |
@@ -61,17 +61,17 @@
 | Datapad            |                                                                                                    |
 | Padded Armor       | Soak 2 (already included)                                                                          |
 
-## Obligations
+#### Obligations
 - **Duty 15**: Oskara's captive sister's safety is contingent upon Oskara working for thugs.
 
-## Motivations
+#### Motivations
 - **Relationship (Sibling)**: Oskara will do anything for her sister.
 
 #### Personality
 
 _(Add 1 XP after adding a description of Oskara's personality here, along with notes for how to play Oskara, to help someone else play the character if needed.)_
 
-## Story
+#### Story
 
 _The starting, background story:_
 
