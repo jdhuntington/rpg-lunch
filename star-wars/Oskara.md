@@ -3,7 +3,7 @@
 #### Twi'lek Bounty Hunter (Assassin) played by JD
 | Soak Value | Wounds  | Strain  | Defense | XP       |
 | :--------: | :-----: | :-----: | :-----: | :------: |
-| 4          | 0 of 12 | 0 of 12 | 0       | 0 of 110 |
+| 4          | 0 of 12 | 0 of 13 | 0       | 0 of 110 |
 
 #### Characteristics
 | Brawn | Agility | Intellect | Cunning | Willpower | Presence |
@@ -82,3 +82,7 @@ Oskara was always quick, clever and lucky enough to stay ahead of the press gang
 But then Oskara was "loaned out" to a Hutt gangster on Tatooine named Teemo. And then things started to come undone. Teemo paid her quite well, but in the course of her bounty-hunting work for the Hutt she uncovered a plot against the Ryll-mining gang on Ryloth. The Hutt was going to seize their territory…and there would be no more guarantees of safety for Makara. Oskara decided to team up with Teemo's favorite gladiator, a Wookie named Lowhhrick, and one of his best pilots, a human named Pash. Alongside her new companions, Oskara has sent a warning to her compatriots on Ryloth and is now fleeing Teemo's revenge.
 
 Oskara seems jaded and cynical at first, having seen much of the worst the galaxy had to offer at a young age. She is careful not to get too attached to anyone or anything. She is a professional bounty hunter and takes a serious approach to her work, focusing on results rather than any emotional considerations.
+
+_The first play session:_
+
+_(Add 1 XP after continuing Oskara's story to include the first play session, from Oskara 's perspective.)_
