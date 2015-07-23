@@ -60,7 +60,7 @@
 | Armored chassis            | Soak 1 (already included); equiv. to heavy clothing |
 | Integrated comlink         | Equiv. to handheld comlink                          |
 | 2 emergency repair patches | Recover 3 wounds                                    |
-| Integrated medpac          | Equiv. to medpac                                    ||
+| Integrated medpac          | Equiv. to medpac                                    |
 
 #### Obligations
 - **Debt 15**: Vex owes a considerable amount of credits to Teemo the Hutt, after taking a large loan from one of Teemo's moneylenders to purchase its freedom. While Vex has now escaped Teemo's service on Mos Shuuta, Teemo will still expect regular payments, and likely will "add your betrayal to the balance".
