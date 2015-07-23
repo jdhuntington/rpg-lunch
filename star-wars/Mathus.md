@@ -57,7 +57,7 @@
 | Datapad                |                                                                                                    |
 | Heavy clothes          | Soak 1 (already included)                                                                          |
 | Emergency repair patch | Recover 3 wounds (mechanical being only)                                                           |
-| Toolkit                |                                                                                                    |
+| Toolkit                |                                                                                                    ||
 
 #### Obligations
 - **Duty 15**: Mathus feels indebted to Honwoo and will work to keep him safe and happy.
