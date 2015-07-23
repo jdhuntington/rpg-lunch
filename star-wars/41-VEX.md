@@ -1,4 +1,4 @@
-# 41-VEX (Vex)
+## 41-VEX (Vex)
 
 #### Droid Colonist (Doctor) played by Damien
 | Soak Value | Wounds  | Strain  | Defense | XP        |
