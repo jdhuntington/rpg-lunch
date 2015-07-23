@@ -1,64 +1,71 @@
 # Lowhhrick (Lo)
-- **Player**: Brad
-- **Species**: Wookie
-- **Career**: Hired Gun
-- **Specializations**: Bodyguard
-- **XP** ( current / total ): 10 / 110
-- **Soak Value**: 4
-- **Wounds** ( current / threshold ): 13 / 18
-- **Strain** ( current / threshold ): 0 / 10
-- **Defense** ( ranged / melee ): 0 / 0
-- **Critical Injuries**: none
 
-## Characteristics
-_Brawn_ 4,
-_Agility_ 3,
-_Intellect_ 2,
-_Cunning_ 2,
-_Willpower_ 2,
-_Presence_ 2
+#### Wookie Hired Gun (Bodyguard) played by Brad
+| Soak Value | Wounds   | Strain  | Defense | XP        |
+| :--------: | :------: | :-----: | :-----: | :-------: |
+| 4          | 13 of 18 | 0 of 10 | 0       | 10 of 110 |
 
-## Skills
-_Athletics (Br)*_ 1,
-_Brawl (Br)*_ 1,
-_Discipline (Will)*_ 1,
-_Gunnery (Ag)*_ 1,
-_Melee (Br)*_ 2,
-_Perception(Cun)*_ 0,
-_Piloting (Planetary, Ag)*_ 0,
-_Ranged (Light, Ag)*_ 1,
-_Ranged (Heavy, Ag)*_ 1,
-_Resilience (Br)*_ 0,
-_Vigilance (Will)*_ 0
+#### Characteristics
+| Brawn | Agility | Intellect | Cunning | Willpower | Presence |
+| :---: | :-----: | :-------: | :-----: | :-------: | :------: |
+| 4     | 3       | 2         | 2       | 2         | 2        |
 
-_* denotes career skill_
+#### Skills
+| Skill                   | Career?        | Rank |
+| ----------------------- | :------------: | ---: |
+| Athletics (Br)          | ✓              |  1   |
+| Brawl (Br)              | ✓              |  1   |
+| Discipline (Will)       | ✓              |  1   |
+| Gunnery (Ag)            | ✓              |  1   |
+| Melee (Br)              | ✓              |  2   |
+| Perception (Cun)        | ✓              |  0   |
+| Piloting–Planetary (Ag) | ✓              |  0   |
+| Ranged–Light (Ag)       | ✓              |  1   |
+| Ranged–Heavy (Ag)       | ✓              |  1   |
+| Resilience (Br)         | ✓              |  0   |
+| Vigilance (Will)        | ✓              |  0   |
 
-## Talents (Bodyguard)
+#### Talents–Bodyguard
+|         |            |             |                  |                      |
+| :-----: | ---------- | ----------- | ---------------- | -------------------- |
+| Cost 5  | Toughened  | Barrage     | Durable          | Grit                 |
+| Cost 10 | Body Guard | Hard Headed | Barrage          | Brace                |
+| Cost 15 | Body Guard | Side Step   | Defensive Stance | Brace                |
+| Cost 20 | Enduring   | Side Step   | Defensive Stance | Hard Headed          |
+| Cost 25 | Dedication | Barrage     | Toughened        | Improved Hard Headed |
 
-## Special Abilities
+#### Critical Injuries
+- None
+
+#### Special Abilities
 - **Wookie Rage**: Deal +1 Melee or Brawl damage when Wounded. Deal +2 Melee or Brawl damage instead when Critically Injured. (p. 53)
 
-## Weapons
-| Weapon         | Skill          | Dmg | Range   | Crit | Special                |
-| -------------- | -------------- | --: | ------- | :--: | ---------------------- |
-| Vibro-axe      | Melee          |  +3 | Engaged | 3    | Pierce 2               |
-| Blaster Pistol | Ranged (Light) |   6 | Medium  | 3    | Stun Setting           |
-| Fists          | Brawl          |  +0 | Engaged | 5    | Disorient 1, Knockdown |
+#### Weapons
+| Weapon         | Skill        | Dmg | Range   | Crit | Special                |
+| -------------- | ------------ | --: | ------- | :--: | ---------------------- |
+| Vibro-axe      | Melee        |  +3 | Engaged | 3    | Pierce 2               |
+| Blaster Pistol | Ranged–Light |   6 | Medium  | 3    | Stun Setting           |
+| Fists          | Brawl        |  +0 | Engaged | 5    | Disorient 1, Knockdown |
 
-## Gear
-155 credits, 2 stimpacks, comlink (handheld), medpac
+#### Gear
+|                    |                                                                                                    |
+| ------------------ | -------------------------------------------------------------------------------------------------- |
+| 155 credits        |                                                                                                    |
+| 2 stimpacks        | Recover 5 wounds on 1st use. Recover 1 less wound each subsequent use, until full rest or 24 hours |
+| Comlink (handheld) |                                                                                                    |
+| Medpac             |                                                                                                    ||
 
-## Obligations
+#### Obligations
 - **Oath 15**: Lo has vowed to hunt down the Trandoshans who killed his sister and nephew for sport.
 
-## Motivations
+#### Motivations
 - **Cause (Vengeance)**: Nothing is more important to Lo than escaping Teemo's attention and getting vengeance for his family.
 
-## Playing Lowhhrick
+#### Personality
 
 _(Add 1 XP after adding a description of Lo's personality here, along with notes for how to play Lo, to help someone else play the character if needed.)_
 
-## Story
+#### Story
 
 _The starting, background story:_
 
