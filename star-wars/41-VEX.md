@@ -47,11 +47,11 @@
 - **Mechanial Being**: Droids cannot become Force sensitive, acquire a Force Rating, or use Force powers. Droids are not affected by mind-altering Force powers. (p. 47)
 
 #### Weapons
-| Weapon               | Skill          | Dmg | Range   | Crit | Special                                                       |
-| -------------------- | -------------- | --: | ------- | :--: | ------------------------------------------------------------- |
-| Light Blaster Pistol | Ranged (Light) |   5 | Medium  | 4    | Stun setting                                                  |
-| Stun Grenades        | Ranged (Light) |   8 | Short   | NA   | Quantity 2, Disorient 3, Stun Damage, Blast 8, Limited Ammo 1 |
-| Fists                | Brawl          |  +0 | Engaged | 5    | Disorient 1, Knockdown                                        |
+| Weapon               | Skill        | Dmg | Range   | Crit | Special                                                       |
+| -------------------- | ------------ | --: | ------- | :--: | ------------------------------------------------------------- |
+| Light Blaster Pistol | Ranged–Light |   5 | Medium  | 4    | Stun setting                                                  |
+| Stun Grenades        | Ranged–Light |   8 | Short   | NA   | Quantity 2, Disorient 3, Stun Damage, Blast 8, Limited Ammo 1 |
+| Fists                | Brawl        |  +0 | Engaged | 5    | Disorient 1, Knockdown                                        |
 
 #### Gear
 |                            |                                                     |
