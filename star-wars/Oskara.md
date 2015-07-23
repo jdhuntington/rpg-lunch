@@ -3,7 +3,7 @@
 #### Twi'lek Bounty Hunter (Assassin) played by JD
 | Soak Value | Wounds  | Strain  | Defense | XP       |
 | :--------: | :-----: | :-----: | :-----: | :------: |
-| 4          | 0 of 12 | 0 of 12 | 0       | 0 of 100 |
+| 4          | 0 of 12 | 0 of 12 | 0       | 0 of 110 |
 
 #### Characteristics
 | Brawn | Agility | Intellect | Cunning | Willpower | Presence |
@@ -28,13 +28,16 @@
 | Vigilance (Will)        | ✓              |  1   |
 
 #### Talents–Assassin
-|         |               |                 |              |                   |
-| :-----: | ------------- | --------------- | ------------ | ----------------- |
-| Cost 5  | Grit          | Lethal Blows    | Stalker      | Dodge             |
-| Cost 10 | Precise Aim   | Jump Up         | Quick Strike | Quick Draw        |
-| Cost 15 | Targeted Blow | Stalker         | Lethal Blows | Anatomy Lessons   |
-| Cost 20 | Stalker       | Sniper Shot     | Dodge        | Lethal Blows      |
-| Cost 25 | Precise Aim   | Deadly Accurate | Dedication   | Master of Shadows |
+|         |               |                 |                |                     |
+| :-----: | ------------- | --------------- | -------------- | ------------------- |
+| Cost 5  | Grit          | Lethal Blows    | ✓ Stalker      | ✓ Dodge             |
+| Cost 10 | Precise Aim   | Jump Up         | Quick Strike   | Quick Draw          |
+| Cost 15 | Targeted Blow | Stalker         | Lethal Blows   | Anatomy Lessons     |
+| Cost 20 | Stalker       | Sniper Shot     | Dodge          | Lethal Blows        |
+| Cost 25 | Precise Aim   | Deadly Accurate | Dedication     | Master of Shadows   |
+
+- **Dodge**: When attacked, suffer strain up to rank to upgrade attack difficulty by that number.
+- **Stalker**: Add 1 boost die per rank to Stealth and Coordination checks.
 
 #### Critical Injuries
 - None
