@@ -15,18 +15,18 @@
 | Skill                     | Career?        | Rank |
 | ------------------------- | :------------: | ---: |
 | Astrogation (Int)         | ✓              |  0   |
-| Athletics (Int)           | ✓              |  1   |
-| Cool (Int)                | ✓              |  1   |
+| Athletics (Br)            | ✓              |  1   |
+| Cool (Pr)                 | ✓              |  1   |
 | Knowledge–Lore (Int)      | ✓              |  0   |
 | Knowledge–Outer Rim (Int) | ✓              |  0   |
 | Knowledge–Xenology (Int)  | ✓              |  1   |
 | Medicine (Int)            | ✓              |  0   |
-| Perception (Int)          | ✓              |  1   |
-| Piloting–Planetary (Int)  | ✓              |  1   |
-| Piloting–Space (Int)      | ✓              |  0   |
+| Perception (Cun)          | ✓              |  1   |
+| Piloting–Planetary (Ag)   | ✓              |  1   |
+| Piloting–Space (Ag)       | ✓              |  0   |
 | Ranged–Heavy (Ag)         |                |  1   |
 | Stealth (Ag)              |                |  1   |
-| Survival (Int)            | ✓              |  1   |
+| Survival (Cun)            | ✓              |  1   |
 
 #### Talents–Scout
 |         |                |                      |               |              |
